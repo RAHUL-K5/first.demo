@@ -1,4 +1,2 @@
 # first.demo
-first repo
-<br>
-Author-Rahul kr Yadav
+<p>this is me </p>
